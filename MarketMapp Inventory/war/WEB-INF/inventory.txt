@@ -1,0 +1,7 @@
+choco krispis	3.49	Cereals	Kellogs	10
+zucaritas	3.00	Cereals	Kellogs	10
+meaty	8.49	MeatAndPoultry	TexasMeats	15
+milkymilk	3.60	Dairy	HappyMilk	25
+banana	2.00	Produce	HappyBananas	30
+cinnamon roll	2.50	Bakery	Texas Bakery	25
+spaghetti	1.35	PastasSaucesAndGrains	O Sole Mio	25
